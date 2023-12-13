@@ -165,8 +165,8 @@ public class GetMail extends javax.swing.JFrame {
         // TODO add your handling code here:
         String host = "imap.gmail.com";
         String mailStoreType = "imap";
-        String username = "muhamadaditya1191@gmail.com";
-        String password = "dhor zmad azyb ijbo";
+        String username = "//email";
+        String password = "//katasandi email atau kode aplikasi";
         getMail(host, mailStoreType, username, password);
     }//GEN-LAST:event_btnInboxActionPerformed
 
