@@ -113,8 +113,8 @@ public class SendMail extends javax.swing.JFrame {
 
     private void btnKirimActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnKirimActionPerformed
         // TODO add your handling code here:
-        final String username = "muhamadaditya1191@gmail.com";
-        final String password = "dhor zmad azyb ijbo";
+        final String username = "//email";
+        final String password = "/kata sandi atau kode aplikasi";
         String tujuan = txtKe.getText();
         String subyek = txtSubyek.getText();
         String pesan = txtPesan.getText();
